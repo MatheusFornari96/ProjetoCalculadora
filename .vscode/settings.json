@@ -1,0 +1,5 @@
+{
+    "dart.analysisExcludedFolders": [
+        "--no-sound-null-safety"
+    ]
+}
